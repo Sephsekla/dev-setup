@@ -1,0 +1,1 @@
+cat ./src/html/* > ./dist/index.html
